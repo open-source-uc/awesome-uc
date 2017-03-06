@@ -20,6 +20,9 @@ The following is the list of links and their descriptions. To collaborate see [c
   - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
   - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
+### Tools
+  - [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
+
 ### Courses
 
 Here is the listing of courses and their organizations.
