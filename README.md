@@ -12,7 +12,12 @@ The following is the list of links and their descriptions. To collaborate see [c
 
 ### Projects
 
-  - [Alma Máter UC (almapp)](https://github.com/almapp/) - Trying to join all the university service.
+  - [Alma Máter UC (almapp)](https://github.com/almapp/)
+  - [FEUC.app](https://github.com/open-source-uc/FEUC-mobile)
+  - [directUC](https://github.com/wachunei/directUC) - Google Chrome and Opera extension for logging in to different services
+  - [sincding](https://github.com/open-source-uc/sincding) - Download your Siding files
+  - [webcursinc](https://github.com/open-source-uc/webcursinc) - Download your Webcursos files
+  
 
 ### Software
 
@@ -20,7 +25,7 @@ The following is the list of links and their descriptions. To collaborate see [c
   - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
   - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
-### Courses
+### Courses
 
 Here is the listing of courses and their organizations.
 
