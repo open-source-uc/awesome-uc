@@ -12,7 +12,12 @@ The following is the list of links and their descriptions. To collaborate see [c
 
 ### Projects
 
-  - [Alma Máter UC (almapp)](https://github.com/almapp/) - Trying to join all the university service.
+  - [Alma Máter UC (almapp)](https://github.com/almapp/)
+  - [FEUC.app](https://github.com/open-source-uc/FEUC-mobile)
+  - [directUC](https://github.com/wachunei/directUC) - Google Chrome and Opera extension for logging in to different services
+  - [sincding](https://github.com/open-source-uc/sincding) - Download your Siding files
+  - [webcursinc](https://github.com/open-source-uc/webcursinc) - Download your Webcursos files
+  
 
 ### Software
 
@@ -42,8 +47,10 @@ Here is the listing of courses and their organizations.
   - **IIC2513 - Tecnologías y Aplicaciones Web**
     - [2015-1](https://github.com/IIC2513-2015-1)
     - [2015-2](https://github.com/IIC2513-2015-2)
+    - [2017-1](https://github.com/IIC2513-2017-1)
   - **IIC2143 - Ingeniería de Software**
     - [2016-1](https://github.com/IIC2143-2016-1)
+    - [2017](https://github.com/IIC2143-2017)
   - **IIC2113 - Diseño Detallado de Software**
     - [2016-2](https://github.com/IIC2113-2016-2)
   - **IIC2173 - Arquitectura de Sistemas de Software**
