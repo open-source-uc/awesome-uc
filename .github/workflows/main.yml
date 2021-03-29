@@ -2,6 +2,8 @@ name: Awesome Lint
 on:
   pull_request:
     branches: [main]
+  commit:
+    branches: [main]
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
