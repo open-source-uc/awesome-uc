@@ -9,6 +9,7 @@ Asegúrate que tus peticiones de extracción (Pull Requests) sigan lo siguiente:
 - Describan claramente la razón por la que el vínculo debe ser añadido
 - Modifique solo una línea en particular en el área apropiada del README en tanto inglés como español.
 - Sea relevante y notorio a la comunidad UC.
+- Revisa que `awesome-lint` no sugiera cambios, y si lo hace, intenta implementarlos.
 
 Gracias por tus sugerencias!
 
