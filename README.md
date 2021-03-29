@@ -1,13 +1,12 @@
-# Awesome UC
+# Awesome UC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
+
 
 [<img src="./media/logo.png" align="right" width="70">](#contenidos)
-
 > Una lista curada de proyectos, [proyectos](#proyectos), [software](#software), [herramientas](#herramientas) y [materiales de curso](#cursos) creadas, relacionadas o útiles para nuestra comunidad.
+> Revisa [Contributing](CONTRIBUTING.md) para saber como contribuir.
 ---
 
 ## Contenidos
-
-Para agregar links a esta lista, revisa [contribuir](CONTRIBUIR.md).
 
 ### Proyectos
 
@@ -17,7 +16,7 @@ Para agregar links a esta lista, revisa [contribuir](CONTRIBUIR.md).
 
 ### Software
 
-- [Github Student Pack](https://education.github.com/pack) - Regístrate con tu mail @uc.cl y obtén decenas de beneficios para estudiantes.
+- [GitHub Student Pack](https://education.github.com/pack) - Regístrate con tu mail @uc.cl y obtén decenas de beneficios para estudiantes.
 - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
 - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
