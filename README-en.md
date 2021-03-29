@@ -1,15 +1,16 @@
 # Awesome UC
 
-[<img src="./media/logo.png" align="right" width="70">](#contenidos)
+[<img src="./media/logo.png" align="right" width="70">](#contents)
 
-> Una lista curada de proyectos, [proyectos](#proyectos), [#software](#software), [herramientas](#herramientas) y [materiales de curso](#cursos) creadas, relacionadas o útiles para nuestra comunidad.
+> A curated lists of awesome UC [projects](#projects), [software](#software), [tools](#tools) and [course material](#courses) created, related or useful to our community.
+
 ---
 
-## Contenidos
+## Contents
 
-Para agregar links a esta lista, revisa [contribuir](CONTRIBUIR.md).
+The following is the list of links and their descriptions. To collaborate see [contributing](CONTRIBUIR.md).
 
-### Proyectos
+### Projects
 
   - [Alma Máter UC (almapp)](https://github.com/almapp/)
   - [FEUC.app](https://github.com/open-source-uc/FEUC-mobile)
@@ -24,13 +25,15 @@ Para agregar links a esta lista, revisa [contribuir](CONTRIBUIR.md).
   - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
   - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
-### Herramientas
+### Tools
 
   - [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
 
-### Cursos
+### Courses
 
-Aquí hay una lista de cursos de la UC y sus respectivos repositorios en GitHub.
+Here is the listing of courses and their organizations.
+
+> Follow the recommended guide of standardization when starting a new course at the [Guides](#guides) section.
 
   - **IIC2233 - Programación Avanzada**
     - [2015-1](https://github.com/IIC2233-2015-1)
