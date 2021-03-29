@@ -2,7 +2,7 @@
 
 [<img src="./media/logo.png" align="right" width="70">](#contenidos)
 
-> Una lista curada de proyectos, [proyectos](#proyectos), [#software](#software), [herramientas](#herramientas) y [materiales de curso](#cursos) creadas, relacionadas o útiles para nuestra comunidad.
+> Una lista curada de proyectos, [proyectos](#proyectos), [software](#software), [herramientas](#herramientas) y [materiales de curso](#cursos) creadas, relacionadas o útiles para nuestra comunidad.
 ---
 
 ## Contenidos
