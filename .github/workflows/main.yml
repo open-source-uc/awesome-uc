@@ -1,8 +1,8 @@
-name: Awesome Lint
+name: CI
 on:
   pull_request:
     branches: [main]
-  commit:
+  push:
     branches: [main]
 jobs:
   Awesome_Lint:
