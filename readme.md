@@ -8,12 +8,14 @@
 > Revisa [Contributing](CONTRIBUTING.md) para saber como contribuir.
 ---
 
+<!--lint disable awesome-list-item-->
 ## Contenidos
 
 - [Proyectos](#proyectos)
 - [Software](#software)
 - [Herramientas](#herramientas)
 - [Cursos](#cursos)
+<!--lint enable awesome-list-item-->
 
 ## Proyectos
 
@@ -35,29 +37,37 @@
 
 Aquí hay una lista de cursos de la UC y sus respectivos repositorios en GitHub.
 
-- **IIC2233 - Programación Avanzada**
+### IIC2233 - Programación Avanzada
 - [2015-1](https://github.com/IIC2233-2015-1)
 - [2015-2](https://github.com/IIC2233-2015-2)
 - [2016-1](https://github.com/IIC2233-2016-1)
 - [2016-2](https://github.com/IIC2233-2016-02)
 - [2017-1 and forward](https://github.com/IIC2233)
-- **IIC2343 - Arquitectura de Computadores**
+
+### IIC2343 - Arquitectura de Computadores
 - [2016-2](https://github.com/IIC2343-2016-2)
-- **IIC2133 - Estructuras de Datos y Algoritmos**
+
+### IIC2133 - Estructuras de Datos y Algoritmos
 - [All periods](https://github.com/IIC2133-PUC/)
-- **IIC2513 - Tecnologías y Aplicaciones Web**
+
+### IIC2513 - Tecnologías y Aplicaciones Web
 - [2015-1](https://github.com/IIC2513-2015-1)
 - [2015-2](https://github.com/IIC2513-2015-2)
 - [2017-1](https://github.com/IIC2513-2017-1)
-- **IIC2143 - Ingeniería de Software**
+
+### IIC2143 - Ingeniería de Software
 - [2016-1](https://github.com/IIC2143-2016-1)
 - [2017](https://github.com/IIC2143-2017)
-- **IIC2113 - Diseño Detallado de Software**
+
+### IIC2113 - Diseño Detallado de Software
 - [2016-2](https://github.com/IIC2113-2016-2)
-- **IIC2173 - Arquitectura de Sistemas de Software**
+
+### IIC2173 - Arquitectura de Sistemas de Software
 - [2016-2](https://github.com/IIC2173-2016-2)
-- **IIC2154 - Proyecto de Especialidad**
+
+### IIC2154 - Proyecto de Especialidad
 - [All periods](https://github.com/iic2154-uc-cl)
-- **IIC3585 - Diseño Avanzado de Aplicaciones Web**
+
+### IIC3585 - Diseño Avanzado de Aplicaciones Web
 - [2015-2](https://github.com/IIC3585-2015-2)
 - [2016-2](https://github.com/IIC3585-2016-2)
