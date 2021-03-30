@@ -6,6 +6,8 @@
 [<img src="./media/logo.png" align="right" width="70">](#contenidos)
 > Una lista curada de proyectos, [proyectos](#proyectos), [software](#software), [herramientas](#herramientas) y [materiales de curso](#cursos) creadas, relacionadas o útiles para nuestra comunidad.
 > Revisa [Contributing](CONTRIBUTING.md) para saber como contribuir.
+
+> [English version](readme-en.md) available.
 ---
 
 <!--lint disable awesome-list-item-->
