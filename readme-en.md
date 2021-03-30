@@ -7,9 +7,15 @@
 
 ---
 
+<!--lint disable remark-lint-double-link-->
 ## Contents
 
-### Projects
+- [Projects](#projects)
+- [Software](#software)
+- [Tools](#tools)
+- [Courses](#courses)
+
+## Projects
 
 - [Alma Máter UC (almapp)](https://github.com/almapp/)
 - [FEUC.app](https://github.com/open-source-uc/FEUC-mobile)
@@ -18,17 +24,17 @@
 - [webcursinc](https://github.com/open-source-uc/webcursinc) - Download your Webcursos files
 
 
-### Software
+## Software
 
 - [GitHub Student Pack](https://education.github.com/pack) - Sign up with your @uc.cl email and get free repositories and other goodies.
 - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
 - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
-### Tools
+## Tools
 
 - [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
 
-### Courses
+## Courses
 
 Here is the listing of courses and their organizations.
 

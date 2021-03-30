@@ -1,3 +1,5 @@
+<!--lint disable awesome-toc-->
+<!--lint disable double-link-->
 # Awesome UC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
 
 
@@ -8,23 +10,28 @@
 
 ## Contenidos
 
-### Proyectos
+- [Proyectos](#proyectos)
+- [Software](#software)
+- [Herramientas](#herramientas)
+- [Cursos](#cursos)
 
-- [directUC](https://github.com/wachunei/directUC) - Google Chrome and Opera extension for logging in to different services
+## Proyectos
+
+- [directUC](https://github.com/wachunei/directUC) - Google Chrome and Opera extension for logging in to different services.
 - [ucalendar](https://github.com/open-source-uc/ucalendar) - App web que prepara tu horario de BuscaCursos para Google Calendar.
 - [CSSiding](https://github.com/benjavicente/CSSiding) - Mejorar estilísticas para el nuevo rediseño del Sistema de Información y Gestión de Ingeniería UC (SIDING).
 
-### Software
+## Software
 
 - [GitHub Student Pack](https://education.github.com/pack) - Regístrate con tu mail @uc.cl y obtén decenas de beneficios para estudiantes.
 - [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
 - [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
 
-### Herramientas
+## Herramientas
 
 - [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
 
-### Cursos
+## Cursos
 
 Aquí hay una lista de cursos de la UC y sus respectivos repositorios en GitHub.
 
