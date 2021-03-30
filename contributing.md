@@ -1,6 +1,6 @@
 # Lineamientos de Contribuciones
 
-Por favor toma en cuenta que este proyecto está liberado con un Código de Conducta para [Contribuidores](CODE_OF_CONDUCT.md). Al participar en este proyecto, estás de acuerdo en seguir sus reglas.
+Por favor toma en cuenta que este proyecto está liberado con un Código de Conducta para [Contribuidores](code-of-conduct.md). Al participar en este proyecto, estás de acuerdo en seguir sus reglas.
 
 ---
 
