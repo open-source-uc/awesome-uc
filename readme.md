@@ -66,37 +66,29 @@ Guías para facilitar el desarrollo de algunos cursos de la universidad.
 
 Lista de cursos que publican sus contenidos públicamente con sus respectivas páginas.
 
-### IIC2233 - Programación Avanzada
-- [2015-1](https://github.com/IIC2233-2015-1)
-- [2015-2](https://github.com/IIC2233-2015-2)
-- [2016-1](https://github.com/IIC2233-2016-1)
-- [2016-2](https://github.com/IIC2233-2016-02)
-- [2017-1 en adelante](https://github.com/IIC2233)
-
-### IIC2343 - Arquitectura de Computadores
-- [Todos los periodos](https://github.com/IIC2343)
-
-### IIC2413 - Bases de Datos
-- [2020-1 en adelante](https://github.com/IIC2413)
-
-### IIC2133 - Estructuras de Datos y Algoritmos
-- [Todos los periodos](https://github.com/IIC2133-PUC/)
-
-### IIC2513 - Tecnologías y Aplicaciones Web
-- [2015-1](https://github.com/IIC2513-2015-1)
-- [2015-2](https://github.com/IIC2513-2015-2)
-- [2017-1](https://github.com/IIC2513-2017-1)
-
-### IIC2143 - Ingeniería de Software
-- [2020-1](https://github.com/IIC2143-2020-2)
-- [2021-1](https://github.com/IIC2143-2021-1)
-
-### IIC2113 - Diseño Detallado de Software
-- [2016-2](https://github.com/IIC2113-2016-2)
-- [2020-2](https://github.com/IIC2113-2020-2)
-
-### IIC2173 - Arquitectura de Sistemas de Software
-- [2016-2](https://github.com/IIC2173-2016-2)
-
-### IIC3585 - Diseño Avanzado de Aplicaciones Web
-- [2016-2](https://github.com/IIC3585-2016-2)
+- IIC2233 - Programación Avanzada
+  - [2015-1](https://github.com/IIC2233-2015-1)
+  - [2015-2](https://github.com/IIC2233-2015-2)
+  - [2016-1](https://github.com/IIC2233-2016-1)
+  - [2016-2](https://github.com/IIC2233-2016-02)
+  - [2017-1 en adelante](https://github.com/IIC2233)
+- IIC2343 - Arquitectura de Computadores
+  - [Todos los periodos](https://github.com/IIC2343)
+- IIC2413 - Bases de Datos
+  - [2020-1 en adelante](https://github.com/IIC2413)
+- IIC2133 - Estructuras de Datos y Algoritmos
+  - [Todos los periodos](https://github.com/IIC2133-PUC/)
+- IIC2513 - Tecnologías y Aplicaciones Web
+  - [2015-1](https://github.com/IIC2513-2015-1)
+  - [2015-2](https://github.com/IIC2513-2015-2)
+  - [2017-1](https://github.com/IIC2513-2017-1)
+- IIC2143 - Ingeniería de Software
+  - [2020-1](https://github.com/IIC2143-2020-2)
+  - [2021-1](https://github.com/IIC2143-2021-1)
+- IIC2113 - Diseño Detallado de Software
+  - [2016-2](https://github.com/IIC2113-2016-2)
+  - [2020-2](https://github.com/IIC2113-2020-2)
+- IIC2173 - Arquitectura de Sistemas de Software
+  - [2016-2](https://github.com/IIC2173-2016-2)
+- IIC3585 - Diseño Avanzado de Aplicaciones Web
+  - [2016-2](https://github.com/IIC3585-2016-2)
