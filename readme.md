@@ -40,6 +40,7 @@ Software útil para estudiantes.
 - [Notion](https://notion.so) - Editor de markdown, tablero, tablas y más, con [plan pro gratuito para estudiantes y profesores](https://www.notion.so/Notion-for-students-teachers-adc631df15ee4ab9a7a33dd50f4c16fe).
 - [Zotero](https://www.zotero.org/) - Gestor de referencias bibliográficas con herramientas para citar.
 - [VSCode](https://code.visualstudio.com/) - Editor de código fácil de usar y muy extensible.
+- [Wolfram](https://www.wolfram.com/education) - Buscador de respuestas [Wolfram Alpha](https://www.wolframalpha.com/) y el sistema [Mathematica](https://www.wolfram.com/mathematica/) ([como obtenerlo en la UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
 
 ## Plantillas
 
