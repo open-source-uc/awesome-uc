@@ -32,8 +32,14 @@ Proyectos creados para facilitar procesos de la universidad.
 
 Software útil para estudiantes.
 
-- [Microsoft Office 365](https://www.microsoft.com/es-xl/education/products/office) - Licencia para el paquete de Office.
-- [GitHub Student Pack](https://education.github.com/pack) - Multiples beneficios en diferentes herramientas para estudiantes.
+- [Microsoft Office 365](https://www.microsoft.com/es-xl/education/products/office) - Licencia para el paquete de Office, gratis para estudiantes.
+- [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) y multiples beneficios en diferentes herramientas para estudiantes.
+- [Autodesk](https://www.autodesk.com/education/edu-software/overview) - Licencias para productos de Autodesk, como AutoCAD y Fusion 360 para estudiantes.
+- [Overleaf](https://www.overleaf.com/) - Editor de LaTeX online, con [bonus de referencia](https://www.overleaf.com/user/bonus) para obtener más colaboradores.
+- [Google for Education](https://edu.google.com/intl/es-419/products/workspace-for-education/education-fundamentals/) - Almacenamiento en la nube con [sincronización local](https://support.google.com/drive/answer/7329379) y aplicaciones para trabajar en equipo.
+- [Notion](https://notion.so) - Editor de markdown, tablero, tablas y más, con [plan pro gratuito para estudiantes y profesores](https://www.notion.so/Notion-for-students-teachers-adc631df15ee4ab9a7a33dd50f4c16fe).
+- [Zotero](https://www.zotero.org/) - Gestor de referencias bibliográficas con herramientas para citar.
+- [VSCode](https://code.visualstudio.com/) - Editor de código fácil de usar y muy extensible.
 
 ## Plantillas
 
