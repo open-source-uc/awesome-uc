@@ -25,12 +25,12 @@
 
 Proyectos creados para facilitar procesos de la universidad.
 
-- [directUC](https://github.com/wachunei/directUC) - Extensión Web que permite a alumnos y funcionarios el ingreso directo a diferentes servicios de la UC.
-- [UCalendar](https://github.com/open-source-uc/ucalendar) - App web que prepara tu horario de BuscaCursos para Google Calendar.
+- [directUC](https://github.com/wachunei/directUC) - Extensión Web que permite el ingreso directo a diferentes servicios de la UC.
+- [UCalendar](https://github.com/open-source-uc/ucalendar) - App web que obtiene el horario de BuscaCursos para usarlo en Google Calendar.
 
 ## Software
 
-Software útil para estudiantes.
+Software útil para estudiantes y docentes.
 
 - [Microsoft Office 365](https://www.microsoft.com/es-xl/education/products/office) - Licencia para el paquete de Office, gratis para estudiantes.
 - [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) y multiples beneficios en diferentes herramientas para estudiantes.
@@ -53,9 +53,10 @@ Plantillas (templates) para editores de texto.
 
 ## Herramientas
 
-Herramientas creadas en la universidad de utilidad general.
+Herramientas de utilidad general creadas por miembros de la universidad.
 
-- [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
+- [BALU](https://github.com/domingomery/Balu) - Herramientas en Matlab para el procesammiento de imagenes y reconocimiento de patrones.
+- [Zum](https://github.com/daleal/zum) - Herramienta para interactuar con APIs en la límea de comandos.
 
 ## Guias
 
