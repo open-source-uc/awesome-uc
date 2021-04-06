@@ -6,6 +6,8 @@
 
 > A curated lists of awesome UC [projects](#projects), [software](#software), [tools](#tools) and [course material](#courses) created, related or useful to our community.
 > See [Contributing](contributing.md) for information on how to contribute to this list.
+>
+> [Versión en español](readme-en.md) disponible.
 
 ---
 
@@ -14,69 +16,85 @@
 
 - [Projects](#projects)
 - [Software](#software)
+- [Templates](#templates)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Guides](#guides)
+- [Public Courses](#public-courses)
 
 ## Projects
 
-- [directUC](https://github.com/wachunei/directUC) - Google Chrome and Opera extension for logging in to different services.
+Projects created to facilitate process univertity processes.
 
-
+- [directUC](https://github.com/wachunei/directUC) - Web extension for logging in to different services of the UC.
+- [UCalendar](https://github.com/open-source-uc/ucalendar) - Web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
 
 ## Software
 
-- [GitHub Student Pack](https://education.github.com/pack) - Sign up with your @uc.cl email and get free repositories and other goodies.
-- [Jetbrains IDEs](https://www.jetbrains.com/student/) - Sign up with your @uc.cl email and download the latest PyCharm, RubyMine and other IDEs (pro) for free.
-- [Microsoft Office 365](https://products.office.com/ES/student/office-in-education) - Get a free license using your @uc.cl email.
+Userfull software for students and teachers.
+
+- [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - Licence for the Office package, free for students.
+- [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) and multiple benefits in different tools for students.
+- [Autodesk](https://www.autodesk.com/education/edu-software/overview) - Licenses for Autodesk products, such as AutoCAD and Fusion 360, for students.
+- [Overleaf](https://www.overleaf.com/) - Online LaTeX editor, with [referral bonuses](https://www.overleaf.com/user/bonus) to get more collaborators.
+- [Google for Education](https://edu.google.com/intl/es-419/products/workspace-for-education/education-fundamentals/) - Cloud storage with [local sync](https://support.google.com/drive/answer/7329379) and apps for working in teams.
+- [Notion](https://notion.so) - Markdown editor, boards, tables and more, with [a free pro plan for students and teachers](https://www.notion.so/Notion-for-students-teachers-adc631df15ee4ab9a7a33dd50f4c16fe).
+- [Zotero](https://www.zotero.org/) - Bibliographic reference manager with citation tools.
+- [VSCode](https://code.visualstudio.com/) - Code editor that is easy to use and very extensible.
+- [Wolfram](https://www.wolfram.com/education) - Answer finder [Wolfram Alpha](https://www.wolframalpha.com/) and the [Mathematica](https://www.wolfram.com/mathematica/) system ([how to get it in the UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
+
+<!-- TODO -->
+
+## Templates
+
+Templates for text editors.
+
+### LaTex
+
+- [Plantilla Dinámica UC](https://github.com/open-source-uc/plantilla-uc) - Attractive, modern and dynamic template for different kinds of UC assessments and guides.
+- [Plantilla Informe Práctica II](https://github.com/open-source-uc/ing2001) - Template for work practice following the format requested by Ingeniería UC.
+
 
 ## Tools
 
-- [BALU](https://github.com/domingomery/Balu) - A Matlab toolbox for computer vision, pattern recognition and image processing.
+General utility tools created by members of the university.
 
-## Courses
+- [BALU](https://github.com/domingomery/Balu) - General Matlab toolbox for image processing and pattern recognition.
+- [Zum](https://github.com/daleal/zum) - Tool for interacting with APIs using the comand line.
 
-Here is the listing of courses and their organizations.
+## Guides
 
-> Follow the recommended guide of standardization when starting a new course at the [Guides](#guides) section.
+Guides to facilitate the delelopment of some university courses.
 
-### IIC2233 - Programación Avanzada
+- [Intro a C](https://github.com/DCCentral-de-Apuntes/intro-C) - Introductión to the C programing language, aimed at making it easier to pass throught courses like Estructuras de Datos and Sistemas Operativos.
 
-- [2015-1](https://github.com/IIC2233-2015-1)
-- [2015-2](https://github.com/IIC2233-2015-2)
-- [2016-1](https://github.com/IIC2233-2016-1)
-- [2016-2](https://github.com/IIC2233-2016-02)
-- [2017-1 and forward](https://github.com/IIC2233)
 
-### IIC2343 - Arquitectura de Computadores
+## Public Courses
 
-- [2016-2](https://github.com/IIC2343-2016-2)
-### IIC2133 - Estructuras de Datos y Algoritmos
-- [All periods](https://github.com/IIC2133-PUC/)
+List of courses that publish their content publicly with their respective pages.
 
-### IIC2513 - Tecnologías y Aplicaciones Web
-
-- [2015-1](https://github.com/IIC2513-2015-1)
-- [2015-2](https://github.com/IIC2513-2015-2)
-- [2017-1](https://github.com/IIC2513-2017-1)
-
-### IIC2143 - Ingeniería de Software
-
-- [2016-1](https://github.com/IIC2143-2016-1)
-- [2017](https://github.com/IIC2143-2017)
-
-### IIC2113 - Diseño Detallado de Software
-
-- [2016-2](https://github.com/IIC2113-2016-2)
-
-### IIC2173 - Arquitectura de Sistemas de Software
-
-- [2016-2](https://github.com/IIC2173-2016-2)
-
-### IIC2154 - Proyecto de Especialidad
-
-- [All periods](https://github.com/iic2154-uc-cl)
-
-### IIC3585 - Diseño Avanzado de Aplicaciones Web
-
-- [2015-2](https://github.com/IIC3585-2015-2)
-- [2016-2](https://github.com/IIC3585-2016-2)
+- IIC2233 - Programación Avanzada
+  - [2015-1](https://github.com/IIC2233-2015-1)
+  - [2015-2](https://github.com/IIC2233-2015-2)
+  - [2016-1](https://github.com/IIC2233-2016-1)
+  - [2016-2](https://github.com/IIC2233-2016-02)
+  - [2017-1 and onwards](https://github.com/IIC2233)
+- IIC2343 - Arquitectura de Computadores
+  - [All periods](https://github.com/IIC2343)
+- IIC2413 - Bases de Datos
+  - [2020-1 and onwards](https://github.com/IIC2413)
+- IIC2133 - Estructuras de Datos y Algoritmos
+  - [All periods](https://github.com/IIC2133-PUC/)
+- IIC2513 - Tecnologías y Aplicaciones Web
+  - [2015-1](https://github.com/IIC2513-2015-1)
+  - [2015-2](https://github.com/IIC2513-2015-2)
+  - [2017-1](https://github.com/IIC2513-2017-1)
+- IIC2143 - Ingeniería de Software
+  - [2020-1](https://github.com/IIC2143-2020-2)
+  - [2021-1](https://github.com/IIC2143-2021-1)
+- IIC2113 - Diseño Detallado de Software
+  - [2016-2](https://github.com/IIC2113-2016-2)
+  - [2020-2](https://github.com/IIC2113-2020-2)
+- IIC2173 - Arquitectura de Sistemas de Software
+  - [2016-2](https://github.com/IIC2173-2016-2)
+- IIC3585 - Diseño Avanzado de Aplicaciones Web
+  - [2016-2](https://github.com/IIC3585-2016-2)
