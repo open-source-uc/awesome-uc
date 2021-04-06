@@ -28,6 +28,7 @@ Proyectos creados para facilitar procesos de la universidad.
 - [directUC](https://github.com/wachunei/directUC) - Extensión Web que permite el ingreso directo a diferentes servicios de la UC.
 - [UCalendar](https://github.com/open-source-uc/ucalendar) - App web que obtiene el horario de BuscaCursos para usarlo en Google Calendar.
 
+
 ## Software
 
 Software útil para estudiantes y docentes.
@@ -42,6 +43,7 @@ Software útil para estudiantes y docentes.
 - [VSCode](https://code.visualstudio.com/) - Editor de código fácil de usar y muy extensible.
 - [Wolfram](https://www.wolfram.com/education) - Buscador de respuestas [Wolfram Alpha](https://www.wolframalpha.com/) y el sistema [Mathematica](https://www.wolfram.com/mathematica/) ([como obtenerlo en la UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
 
+
 ## Plantillas
 
 Plantillas (templates) para editores de texto.
@@ -51,6 +53,7 @@ Plantillas (templates) para editores de texto.
 - [Plantilla Dinámica UC](https://github.com/open-source-uc/plantilla-uc) - Plantilla atractiva, moderna y dinámica para distintas clases de evaluaciones y guías de la UC.
 - [Plantilla Informe Práctica II](https://github.com/open-source-uc/ing2001) - Plantilla para el informe laboral según el formato solicitado por Ingeniería UC.
 
+
 ## Herramientas
 
 Herramientas de utilidad general creadas por miembros de la universidad.
@@ -58,11 +61,13 @@ Herramientas de utilidad general creadas por miembros de la universidad.
 - [BALU](https://github.com/domingomery/Balu) - Herramientas en Matlab para el procesammiento de imagenes y reconocimiento de patrones.
 - [Zum](https://github.com/daleal/zum) - Herramienta para interactuar con APIs en la límea de comandos.
 
+
 ## Guias
 
 Guías para facilitar el desarrollo de algunos cursos de la universidad.
 
 - [Intro a C](https://github.com/DCCentral-de-Apuntes/intro-C) - Introducción para el lenguaje de programación C, orientado a facilitar el pasar por cursos como Estructuras de Datos y Sistemas Operativos.
+
 
 ## Cursos Públicos
 

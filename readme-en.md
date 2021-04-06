@@ -28,6 +28,7 @@ Projects created to facilitate process univertity processes.
 - [directUC](https://github.com/wachunei/directUC) - Web extension for logging in to different services of the UC.
 - [UCalendar](https://github.com/open-source-uc/ucalendar) - Web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
 
+
 ## Software
 
 Userfull software for students and teachers.
@@ -42,7 +43,6 @@ Userfull software for students and teachers.
 - [VSCode](https://code.visualstudio.com/) - Code editor that is easy to use and very extensible.
 - [Wolfram](https://www.wolfram.com/education) - Answer finder [Wolfram Alpha](https://www.wolframalpha.com/) and the [Mathematica](https://www.wolfram.com/mathematica/) system ([how to get it in the UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
 
-<!-- TODO -->
 
 ## Templates
 
@@ -60,6 +60,7 @@ General utility tools created by members of the university.
 
 - [BALU](https://github.com/domingomery/Balu) - General Matlab toolbox for image processing and pattern recognition.
 - [Zum](https://github.com/daleal/zum) - Tool for interacting with APIs using the comand line.
+
 
 ## Guides
 
