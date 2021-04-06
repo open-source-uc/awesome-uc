@@ -58,8 +58,8 @@ Plantillas (templates) para editores de texto.
 
 Herramientas de utilidad general creadas por miembros de la universidad.
 
-- [BALU](https://github.com/domingomery/Balu) - Herramientas en Matlab para el procesammiento de imagenes y reconocimiento de patrones.
-- [Zum](https://github.com/daleal/zum) - Herramienta para interactuar con APIs en la límea de comandos.
+- [BALU](https://github.com/domingomery/Balu) - Herramientas en Matlab para el procesamiento de imágenes y reconocimiento de patrones.
+- [Zum](https://github.com/daleal/zum) - Herramienta para interactuar con APIs en la línea de comandos.
 
 
 ## Guias

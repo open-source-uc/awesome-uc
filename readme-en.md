@@ -23,7 +23,7 @@
 
 ## Projects
 
-Projects created to facilitate process univertity processes.
+Projects created to facilitate process university processes.
 
 - [directUC](https://github.com/wachunei/directUC) - Web extension for logging in to different services of the UC.
 - [UCalendar](https://github.com/open-source-uc/ucalendar) - Web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
@@ -31,9 +31,9 @@ Projects created to facilitate process univertity processes.
 
 ## Software
 
-Userfull software for students and teachers.
+Useful software for students and teachers.
 
-- [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - Licence for the Office package, free for students.
+- [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - License for the Office package, free for students.
 - [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) and multiple benefits in different tools for students.
 - [Autodesk](https://www.autodesk.com/education/edu-software/overview) - Licenses for Autodesk products, such as AutoCAD and Fusion 360, for students.
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor, with [referral bonuses](https://www.overleaf.com/user/bonus) to get more collaborators.
@@ -59,14 +59,14 @@ Templates for text editors.
 General utility tools created by members of the university.
 
 - [BALU](https://github.com/domingomery/Balu) - General Matlab toolbox for image processing and pattern recognition.
-- [Zum](https://github.com/daleal/zum) - Tool for interacting with APIs using the comand line.
+- [Zum](https://github.com/daleal/zum) - Tool for interacting with APIs using the command line.
 
 
 ## Guides
 
-Guides to facilitate the delelopment of some university courses.
+Guides to facilitate the development of some university courses.
 
-- [Intro a C](https://github.com/DCCentral-de-Apuntes/intro-C) - Introductión to the C programing language, aimed at making it easier to pass throught courses like Estructuras de Datos and Sistemas Operativos.
+- [Intro a C](https://github.com/DCCentral-de-Apuntes/intro-C) - Introduction to the C programing language, aimed at making it easier to pass through courses like Estructuras de Datos and Sistemas Operativos.
 
 
 ## Public Courses
