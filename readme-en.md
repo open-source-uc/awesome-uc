@@ -23,7 +23,7 @@
 
 ## Projects
 
-Projects created to facilitate process university processes.
+Projects created to facilitate university processes.
 
 - [directUC](https://github.com/wachunei/directUC) - Web extension for logging in to different services of the UC.
 - [UCalendar](https://github.com/open-source-uc/ucalendar) - Web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
