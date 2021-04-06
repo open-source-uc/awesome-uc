@@ -7,7 +7,7 @@
 > A curated lists of awesome UC [projects](#projects), [software](#software), [tools](#tools) and [course material](#courses) created, related or useful to our community.
 > See [Contributing](contributing.md) for information on how to contribute to this list.
 >
-> [Versión en español](readme-en.md) disponible.
+> [Versión en español](readme.md) disponible.
 
 ---
 
