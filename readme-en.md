@@ -31,7 +31,7 @@ Projects created to facilitate university processes.
 
 ## Software
 
-Useful software for students and teachers.
+Useful and free of charge software for students and teachers.
 
 - [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - License for the Office package, free for students.
 - [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) and multiple benefits in different tools for students.
@@ -42,7 +42,7 @@ Useful software for students and teachers.
 - [Zotero](https://www.zotero.org/) - Bibliographic reference manager with citation tools.
 - [VSCode](https://code.visualstudio.com/) - Code editor that is easy to use and very extensible.
 - [Wolfram](https://www.wolfram.com/education) - Answer finder [Wolfram Alpha](https://www.wolframalpha.com/) and the [Mathematica](https://www.wolfram.com/mathematica/) system ([how to get it in the UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
-
+- [Figma](https://www.figma.com/) - A collaborative interface design tool, with a [free professional account for students](https://www.figma.com/education/).
 
 ## Templates
 
