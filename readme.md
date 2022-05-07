@@ -27,6 +27,7 @@ Proyectos creados para facilitar procesos de la universidad.
 
 - [directUC](https://github.com/wachunei/directUC) - Extensión Web que permite el ingreso directo a diferentes servicios de la UC.
 - [UCalendar](https://github.com/open-source-uc/ucalendar) - App web que obtiene el horario de BuscaCursos para usarlo en Google Calendar.
+- [Ramos UC](https://github.com/open-source-uc/ramos-uc) - Una plataforma web para buscar, calificar y explorar ramos. Además permite planificar horarios y ver la evolución de los cupos durante la toma de ramos de semestres pasados.
 
 
 ## Software
