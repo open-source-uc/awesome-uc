@@ -25,20 +25,21 @@
 
 Projects created to facilitate university processes.
 
-- [directUC](https://github.com/wachunei/directUC) - Web extension for logging in to different services of the UC.
-- [UCalendar](https://github.com/open-source-uc/ucalendar) - Web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
+- [directUC](https://github.com/wachunei/directUC) - A web extension for logging in to different services of the UC.
+- [UCalendar](https://github.com/open-source-uc/ucalendar) - A web app that obtains the schedule of BuscaCursos to use it in Google Calendar.
+- [Ramos UC](https://github.com/open-source-uc/ramos-uc) - A web app that allows to search, rate, and explore courses. Also has schedule planning funcionality, and it allows you to see the the vacancy evolution of courses during course taking periods.
 
 
 ## Software
 
 Useful and free of charge software for students and teachers.
 
-- [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - License for the Office package, free for students.
-- [GitHub Student Pack](https://education.github.com/pack) - [GitHub pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) and multiple benefits in different tools for students.
+- [Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office) - A license for the Office package, free for students.
+- [GitHub Student Pack](https://education.github.com/pack) - [GitHub Pro](https://docs.github.com/en/github/getting-started-with-github/githubs-products#github-pro) and multiple benefits in different tools for students.
 - [Autodesk](https://www.autodesk.com/education/edu-software/overview) - Licenses for Autodesk products, such as AutoCAD and Fusion 360, for students.
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX editor, with [referral bonuses](https://www.overleaf.com/user/bonus) to get more collaborators.
 - [Google for Education](https://edu.google.com/intl/es-419/products/workspace-for-education/education-fundamentals/) - Cloud storage with [local sync](https://support.google.com/drive/answer/7329379) and apps for working in teams.
-- [Notion](https://notion.so) - Markdown editor, boards, tables and more, with [a free pro plan for students and teachers](https://www.notion.so/Notion-for-students-teachers-adc631df15ee4ab9a7a33dd50f4c16fe).
+- [Notion](https://notion.so) - A markdown editor with boards, tables and more, with [a free pro plan for students and teachers](https://www.notion.so/Notion-for-students-teachers-adc631df15ee4ab9a7a33dd50f4c16fe).
 - [Zotero](https://www.zotero.org/) - Bibliographic reference manager with citation tools.
 - [VSCode](https://code.visualstudio.com/) - Code editor that is easy to use and very extensible.
 - [Wolfram](https://www.wolfram.com/education) - Answer finder [Wolfram Alpha](https://www.wolframalpha.com/) and the [Mathematica](https://www.wolfram.com/mathematica/) system ([how to get it in the UC](https://informatica.uc.cl/licencias#mathematica-campus-agreement)).
@@ -50,8 +51,8 @@ Templates for text editors.
 
 ### LaTex
 
-- [Plantilla Dinámica UC](https://github.com/open-source-uc/plantilla-uc) - Attractive, modern and dynamic template for different kinds of UC assessments and guides.
-- [Plantilla Informe Práctica II](https://github.com/open-source-uc/ing2001) - Template for work practice following the format requested by Ingeniería UC.
+- [Plantilla Dinámica UC](https://github.com/open-source-uc/plantilla-uc) - An attractive, modern and dynamic template for different kinds of UC assessments and guides.
+- [Plantilla Informe Práctica II](https://github.com/open-source-uc/ing2001) - A template for a work practice report following the format requested by the UC School of Engineering.
 
 
 ## Tools
